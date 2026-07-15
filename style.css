@@ -6274,4 +6274,8 @@ body {
     .review-card-footer a {
         padding: 16px 30px !important;
     }
+
+    .material-card-bot p {
+        margin-top: -30px !important;
+    }
 }
